@@ -11,5 +11,10 @@ Computing filter banks and MFCCs involve somewhat the same procedure, where in b
 
 
  Run the project in the local development server 
+ 
+ 
+ 
+ 
+ 
  run the ipynb file in the jupyter notebook 
  
